@@ -1,0 +1,17 @@
+{
+	"Class_Constructor": {
+		"prefix": "import",
+		"body": [
+			"import React from 'react';",
+			"class $TM_FILENAME_BASE extends React.Component {",
+			"\trender() {",
+			"\t\treturn (",
+			"\t\t\t<div>$0</div>",
+			"\t\t\t);",
+			"\t\t}",
+			"}",
+			"export default $TM_FILENAME_BASE;"
+		],
+		"description": "React Class boilerplate"
+	},
+}
