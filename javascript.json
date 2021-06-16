@@ -7,8 +7,8 @@
 			"\trender() {",
 			"\t\treturn (",
 			"\t\t\t<div>$0</div>",
-			"\t\t\t);",
-			"\t\t}",
+			"\t\t);",
+			"\t}",
 			"}",
 			"export default $TM_FILENAME_BASE;"
 		],
